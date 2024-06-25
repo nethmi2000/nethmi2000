@@ -50,9 +50,9 @@
 <h3 align="left">Connect with me: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nethmi-wickramasinghe-540670276/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethmi wickramasinghe" height="30" width="40" /></a>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6M_827fMeki2rVOBwphNS_CLHiU-p6XVSDw&s" alt="nethmi wickramasinghe" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nethmi.wickramasinghe.944" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCegjkhBIqMZnu-jBMda_sHwCIhZHWZyrb6w&s" alt="nethmi wickramasinghe" height="30" width="40" /></a>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNEpUTHQoQUJMHLrErGJyHg89uy71MyuHfQnXZrevcaj-Bl3luhD-8CkxqrizZGB_YH0&usqp=CAU" alt="nethmi wickramasinghe" height="30" width="40" /></a>
 </p>
 
 
