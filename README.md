@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/nethmi-wickramasinghe-540670276/" target="blank">
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6M_827fMeki2rVOBwphNS_CLHiU-p6XVSDw&s" alt="nethmi wickramasinghe" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nethmi.wickramasinghe.944" target="blank">
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNEpUTHQoQUJMHLrErGJyHg89uy71MyuHfQnXZrevcaj-Bl3luhD-8CkxqrizZGB_YH0&usqp=CAU" alt="nethmi wickramasinghe" height="30" width="40" /></a>
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCegjkhBIqMZnu-jBMda_sHwCIhZHWZyrb6w&s" alt="nethmi wickramasinghe" height="30" width="40" /></a>
 </p>
 
 
